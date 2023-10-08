@@ -1,4 +1,4 @@
-# #1 fan of Adventure Time 😄
+# #1 fan of Gravity Falls 😄
 
 Hi, I am Neast and this is my Github page,
 
