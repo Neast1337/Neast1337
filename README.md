@@ -6,7 +6,7 @@ I don't know if I will post a lot of stuff here
 
 - Neast
 
-![Adventure Time](https://cdn.discordapp.com/attachments/914629612435284028/915527828014002246/6AXE.gif)
+![gravity Falls](https://cdn.discordapp.com/attachments/1096109031002755223/1160658550012514424/grunkle-stan-cash-register-run-aiku7abkhand9sdc.gif?ex=65357682&is=65230182&hm=00a916664f1f8736b972c3f0dc7ec3953f6038b4583c1a411e4faff1aa8b2b23&)
 
 
 ## &#x1f4c8; GitHub Stats
