@@ -20,8 +20,7 @@ Hi, I'm **Neast** 👋
 
 ## 🎵 Spotify
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=h4rdt0p\&cover_image=true\&theme=natemoo-re\&show_offline=false\&background_color=121212\&interchange=false\&bar_color=53b14f\&bar_color_cover=false)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h4rdt0p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=h4rdt0p&redirect=true)
 ---
 
 ### 🔺 Stay weird. Stay curious.
