@@ -12,6 +12,8 @@ Hi, I'm **Neast** 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=neast1337&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=F5C542&icon_color=F5C542" />
 
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Neast1337&langs_count=4&theme=light_github" />
+
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neast1337\&color=dc143c\&style=flat-square)
