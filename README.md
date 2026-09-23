@@ -8,19 +8,13 @@ Hi, I'm **Neast** 👋
 
 ![Gravity Falls](https://gifdb.com/images/high/grunkle-stan-cash-register-run-aiku7abkhand9sdc.gif)
 
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=neast1337&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=F5C542&icon_color=F5C542" />
 
----
+## 👀 Profile Views
 
-## 👀 Visitors
-
-<img src="https://profile-counter.glitch.me/neast1337/count.svg" />
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=neast1337\&color=dc143c\&style=flat-square)
 
 ## 🎵 Spotify
 
@@ -29,5 +23,3 @@ Hi, I'm **Neast** 👋
 ---
 
 ### 🔺 Stay weird. Stay curious.
-
-*Trust no one... especially the triangle.* 👁️
